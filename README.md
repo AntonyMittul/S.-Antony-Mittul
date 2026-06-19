@@ -5,7 +5,7 @@ A fast, responsive personal portfolio website built to showcase my work in
 projects, skills, and a way to get in touch — wrapped in a minimal, dark,
 "technical" design language.
 
-🔗 **Live site:** _coming soon_ &nbsp;·&nbsp; 💻 **Code:** this repository
+🔗 **Live site:** <https://s-antony-mittul.vercel.app/> &nbsp;·&nbsp; 💻 **Code:** this repository
 
 ---
 
